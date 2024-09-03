@@ -15,7 +15,7 @@ Accurata analisi di tutti gli incidenti aerei che si sono verificati dal 1919 al
 - *cat*: categoria dell'incidente come descritto dal ASN
 - *year* : anno in cui 
 
-2. **Flights_disasters_analysis.ipynb**: file python contente l'analisi svolta
+2. **Flights_disasters_analysis.ipynb**: notebook contente l'analisi svolta con Python
 
 ## Dettagli analisi
 
